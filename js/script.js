@@ -1,0 +1,1 @@
+document.getElementById("blue").innerHTML = "<h1>THIS IS NOT A BLUE HEADING</h1>";
